@@ -10,7 +10,7 @@ import java.util.List;
 
 import static io.pivotal.pal.tracker.accounts.AccountInfo.accountInfoBuilder;
 import static java.util.stream.Collectors.toList;
-//
+
 @RestController
 public class AccountController {
 
